@@ -1570,8 +1570,9 @@ section img{
     box-shadow: 8px 8px 10px #aaa;
 }
 
-.container{
+.row{
     position: absolute;
+    width: inherit;
 }
 
 
