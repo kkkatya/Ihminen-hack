@@ -1560,10 +1560,6 @@ header.header-prepare .nav-bar-icon > span::after {
     }
 }
 
-section{
-    height: 100vh;
-}
-
 section img{
 
     box-shadow: 8px 8px 10px #aaa;
