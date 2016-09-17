@@ -1564,6 +1564,11 @@ section{
     height: 100vh;
 }
 
+section img{
+
+    box-shadow: 8px 8px 10px #aaa;
+}
+
 
 /*------------------------------------------------------------------*/
 /* Right Side Menu Button (Search, Cart, Bar, etc) */
@@ -2899,6 +2904,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 
 .bg-img4 {
     background-image: url("../img/full/04.jpg");
+    background-color: rgba(255,255,255,0.7);
 }
 
 .bg-img5 {
